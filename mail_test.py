@@ -44,3 +44,4 @@ smtpObj.sendmail("Sashaklivsovpechka@gmail.com","elenaklivtsova@icloud.com", msg
 
 # выходим
 smtpObj.quit()
+
